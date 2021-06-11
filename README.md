@@ -1,7 +1,7 @@
 ## 김재겸(Kim Jaegyeom)
 
 #### 🔭 I’m currently working on ...
-- Chung-Ang Univ.
+- Chung-Ang Univ.(Mechanical engineering)
 - [Human-Centered Robotics Rab](https://hcr.cau.ac.kr/)
 
 #### 🌱 I’m currently learning ...
