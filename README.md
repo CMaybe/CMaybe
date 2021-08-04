@@ -9,7 +9,7 @@
 - Soft robotics
 - Redundant robot
 - Deep learning
-- C++
+- Modern C++
 - Data structure
 - Algorithm
 
