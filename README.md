@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
 - Chung-Ang Univ.(Mechanical engineering)
-- [Human-Centered Robotics Lab](https://hcr.yonsei.ac.kr/)
+- [HUMAN-CENTERED AI ROBOTICS LAB](https://hcr.yonsei.ac.kr/)
 
 #### 🌱 I’m currently learning ...
 - Modern robotics
