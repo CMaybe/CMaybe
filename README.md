@@ -3,10 +3,12 @@
 #### 🔭 I’m currently working on ...
 - Chung-Ang Univ.(Mechanical engineering)
 - [HUMAN-CENTERED AI ROBOTICS LAB](https://hcr.yonsei.ac.kr/)
-
+- [Floatic](https://floatic.io/ko)
 #### 🌱 I’m currently learning ...
 - Modern robotics
 - Soft robotics
+- Global Path Planning
+- Convex Optimization
 - Redundant robot
 - Deep learning
 - Modern C++
