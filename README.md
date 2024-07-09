@@ -5,12 +5,10 @@
 - [HUMAN-CENTERED AI ROBOTICS LAB](https://hcr.yonsei.ac.kr/)
 - [Floatic](https://floatic.io/ko)
 #### 🌱 I’m currently learning ...
-- Modern robotics
-- Soft robotics
+- Mobile Robotics
+- Multi Agent Path Planning
 - Global Path Planning
 - Convex Optimization
-- Redundant robot
-- Deep learning
 - Modern C++
 - Data structure
 - Algorithm
@@ -22,5 +20,6 @@
 ![CMaybe's github stats](https://github-readme-stats.vercel.app/api?username=CMaybe&show_icons=true&hide_border=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMaybe&layout=compact)](https://github.com/CMaybe/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CMaybe&hide_border=true)](https://git.io/streak-stats)
+
 ### Problem Solving
 [![CMaybe's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asbsds123)](https://solved.ac/profile/asbsds123)
