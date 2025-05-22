@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSQP-Eigen-00CCBB?style=for-the-badge"/>
 </p>
 
 ---
@@ -23,7 +22,7 @@ My core interest lies in building mathematically grounded, deployable systems fo
 
 ## 🧠 Technical Focus
 
-- 🛤 **Trajectory Optimization**: SQP-based nonlinear TO, real-time implementation with OSQP  
+- 🛤 **Trajectory Optimization**: SQP-based nonlinear TO, real-time implementation
 - 🎯 **Model Predictive Control**: MPC for differential-drive robots and quadruped robots.
 - 🔧 **Simulation & Deployment**: ROS2, URDF, real-time tuning.
 - 📦 **Software Stack**: C++14/17, Python3, ROS2, Docker, Git
