@@ -11,12 +11,14 @@
 ## 👨‍💻 About Me
 
 I am a robotics software engineer focused on real-time control, motion planning, and trajectory optimization.  
-My core interest lies in building mathematically grounded, deployable systems for autonomous mobile robots.  
+My core interest lies in building mathematically grounded, deployable systems for robots.  
 
 
 - 📍 Based in Seoul, South Korea  
 - ✉️ [asbsds123@gmail.com](mailto:asbsds123@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaegyeom-kim-185b8a2a4/) 
+- 💬 Feel free to reach out anytime!
+
 
 ---
 
