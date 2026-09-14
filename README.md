@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Control-MPC_%7C_NMPC-6A5ACD?style=flat-square"/>
   <img src="https://img.shields.io/badge/Optimization-SQP_%7C_QP-6A5ACD?style=flat-square"/>
   <img src="https://img.shields.io/badge/Real--Time-EtherCAT_%7C_PREEMPT__RT-1E88E5?style=flat-square"/>
-  
 </p>
 
 ---
@@ -20,31 +19,31 @@
 
 Robotics Software Engineer focused on **robot control, motion planning, trajectory optimization, and real-time systems**.
 
-I enjoy bridging the gap between **mathematical algorithms and reliable software running on physical robots**.
+I enjoy turning **mathematical algorithms into reliable software for physical robots**, with a particular interest in building systems that are both theoretically sound and practical in deployment.
 
-* 🤖 Mobile · Legged · Manipulation Robotics
-* 🎯 MPC / NMPC / Optimal Control
-* 🛤 Trajectory Optimization / SQP
-* ⚡ Real-Time Control / EtherCAT
-* 💻 C++ / Python / ROS2
+- 🤖 Mobile · Legged · Manipulation Robotics
+- 🎯 MPC / NMPC / Optimal Control
+- 🛤 Trajectory Optimization / SQP
+- ⚡ Real-Time Control / EtherCAT
+- 💻 C++ / Python / ROS 2
 
-📍 Seoul, South Korea
-✉️ [asbsds123@gmail.com](mailto:asbsds123@gmail.com)
+📍 Seoul, South Korea  
+✉️ [asbsds123@gmail.com](mailto:asbsds123@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/jaegyeom-kim-185b8a2a4/)
-
 
 ---
 
 ## 🚀 Selected Projects
 
-| Project                        | Description                                 | Focus              |
-| ------------------------------ | ------------------------------------------- | ------------------ |
-| 🛞 **MPC Driving**             | 2D differential-drive robot control         | MPC · C++ · OSQP   |
-| 🧭 **Optimal Parking**         | RRT* + trajectory optimization              | Planning · SQP     |
-| 🐕 **Quadruped MPC**           | MIT Cheetah 3 Convex MPC                    | Optimal Control    |
-| ⚙️ **Trajectory Optimization** | SQP-based nonlinear trajectory optimization | Optimization       |
-| 🦾 **Inverse Kinematics**      | Numerical robot IK library                  | Kinematics · Eigen |
-| 🚗 **AMR Docking**             | Real-world docking control                  | NMPC · ROS2        |
+| Project | Description | Focus |
+| --- | --- | --- |
+| 🛞 **MPC Driving** | MPC-based control for a 2D differential-drive robot | MPC · C++ · OSQP |
+| 🧭 **Optimal Parking** | RRT* with trajectory optimization for parking maneuvers | Planning · SQP |
+| 🐕 **Quadruped MPC** | Convex MPC implementation inspired by MIT Cheetah 3 | Optimal Control |
+| ⚙️ **Trajectory Optimization** | SQP-based nonlinear trajectory optimization framework | Optimization |
+| 🦾 **Inverse Kinematics** | Numerical inverse kinematics library for robotic systems | Kinematics · Eigen |
+| 🚗 **AMR Docking** | Real-world autonomous mobile robot docking controller | NMPC · ROS 2 |
+| 🌐 **30smath.fun** | Personal project for building and experimenting on the web | Web · Personal |
 
 ---
 
@@ -69,6 +68,13 @@ Robot Intelligence
 Currently exploring:
 
 **Robotics Foundation Models · Learning-based Control · Sim-to-Real · Teleoperation · Tactile Sensing**
+
+---
+
+## 🔗 Links
+
+- 📝 **Blog**: [cmaybe.github.io](https://cmaybe.github.io/)
+- 🌐 **Personal Project**: [30smath.fun](https://30smath.fun/)
 
 ---
 
